@@ -1,3 +1,1 @@
-@echo off
-echo "Hello world"
-exit
+echo "siema"
